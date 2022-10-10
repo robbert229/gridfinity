@@ -10,7 +10,9 @@ You need to install the https://github.com/kennetek/gridfinity-rebuilt-openscad 
 
 ### Dial Indicator
 
-A 2x4 bin that can hold a single dial indicator. Remixed from https://www.thingiverse.com/thing:1547126
+A 2x4 bin that can hold a single dial indicator. Remixed from https://www.thingiverse.com/thing:1547126 
+
+*License*: CC BY 4.0
 
 ![Dial Indicator](./dial-indicator/image.png)
 
@@ -18,4 +20,9 @@ A 2x4 bin that can hold a single dial indicator. Remixed from https://www.thingi
 
 A 3x3 bin that can hold two dial test indicators. Remixed from https://www.thingiverse.com/thing:2175277
 
+*License*: CC BY-NC 4.0
+
 ![Dial Test Indicator](./dial-test-indicator/image.png)
+
+## Licenses
+All of the openscad files here are MIT licensed code. They utilize 3rd party stls in their compilation though, and as such inherit the respective licenses of the files that they utilize.

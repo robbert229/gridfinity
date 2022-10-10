@@ -6,14 +6,16 @@ This repository contains a number of gridfinity bins that I needed, but couldn't
 ## Setup
 You need to install the https://github.com/kennetek/gridfinity-rebuilt-openscad git repo as a openscad library in order to build any of the stls in this repository. This library lacks a stable release yet, but I have build the stls myself using `107ca358de1501905949ad530ec578be3bee8fd1`
 
-## Dial Indicator
+## Organizers
+
+### Dial Indicator
 
 A 2x4 bin that can hold a single dial indicator. Remixed from https://www.thingiverse.com/thing:1547126
 
-![Dial Indicator](Gridfinity Dial Indicator/Gridfinity Dial Indicator.png)
+![Dial Indicator](./dial-indicator/image.png)
 
-## Dial Test Indicator
+### Dial Test Indicator
 
 A 3x3 bin that can hold two dial test indicators. Remixed from https://www.thingiverse.com/thing:2175277
 
-![Dial Test Indicator](Gridfinity Dial Test Indicator.png/Gridfinity Dial Test Indicator.png)
+![Dial Test Indicator](./dial-test-indicator/image.png)

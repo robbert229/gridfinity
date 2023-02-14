@@ -19,3 +19,9 @@ A 2x4 bin that can hold a single dial indicator. Remixed from https://www.thingi
 A 3x3 bin that can hold two dial test indicators. Remixed from https://www.thingiverse.com/thing:2175277
 
 ![Dial Test Indicator](./dial-test-indicator/image.png)
+
+### Storage Case
+
+WIP
+
+python Z:\Home\JohnRowley\Documents\OpenSCAD\libraries\lasercut\convert-2d.py --openscadbin="C:\Program Files (x86)\OpenSCAD\openscad.exe" .\storage-case.scad ./flat.svg
